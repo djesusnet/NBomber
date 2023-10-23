@@ -1,0 +1,2 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,Meu Primeiro Teste Carga,00:00:30,global information,300,300,0,10,216.54,326.25,1438.03,246.91,441.6,533.5,1269.76,194.33,0,0,0,0
